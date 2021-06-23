@@ -1,7 +1,7 @@
 # Part 3
 
 ## Accompanying resources
-* Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part3.html
+* Slide deck: https://zipcoder.github.io/curriculum-assets/lectures/python/conditional-operators/
 
 ## Exercise 1
 
